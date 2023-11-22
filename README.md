@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I am Jovana Spasić! 👋🏻
 
-<!--
-**Spasic-Jovana/Spasic-Jovana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 🎒 I am a **Computing Science and Informatics** Student
+    - 🏫 _Faculty of Electronic Engineering, University of Niš_
+- 👩🏻‍💻 I am interested in ***Desktop Application Development*** and ***Web Development***
+- 📚 I am currently learning:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=plastic&logo=Angular&logoColor=FFFFFF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=C%20Sharp&logoColor=FFFFFF)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=FFFFFF)
+
+### Database Management Systems
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=FFFFFF)
+![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=plastic&logo=Oracle&logoColor=FFFFFF)
